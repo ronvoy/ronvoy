@@ -10,7 +10,7 @@
 
 <!-- Skills -->
 ## 💼 Skills
-- **Frontend Development:** HTML, CSS, JavaScript,Vue, React.js
+- **Frontend Development:** HTML, CSS, JavaScript, Vue, React.js
 - **Backend Development:** Laravel, Ruby on Rails
 - **Database Management:** MySQL
 - **DevOps:** Docker, Kubernetes
@@ -29,13 +29,10 @@
 - LinkedIn: [Rohan Baidya](https://www.linkedin.com/in/rohanbaidya/)
 - GitHub: [Rohan Baidya](https://github.com/ronvoy/)
 
-<!-- Contact -->
-## 📧 Contact
-- Email: baidya.rohan@gmail.com
-- Website: https://rohanb.com.np/
-
 <!-- Footer -->
 <p align="center">
-  Made with ❤️
+  https://rohanb.com.np/
+  me@rohanb.com.np
+  baidya.rohan@gmail.com
 </p>
 
