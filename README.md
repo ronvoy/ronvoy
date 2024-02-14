@@ -19,7 +19,7 @@
 ---
 <!-- Projects -->
 ## 🚀 Projects
-- [Commish.sh](https://commi.sh/): Sports League Registration Project built on Ruby on Rails.
+- [Commish](https://commi.sh/): Sports League Registration Project built on Ruby on Rails.
 - [Water level monitoring](https://kuklnp.com/): Water level monitoring system Project.
 
 ---
