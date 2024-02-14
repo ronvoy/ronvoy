@@ -31,8 +31,8 @@
 
 <!-- Contact -->
 ## 📧 Contact
-- Email: (baidya.rohan@gmail.com)[baidya.rohan@gmail.com]
-- Website: (https://rohanb.com.np/)[https://rohanb.com.np/]
+- Email: baidya.rohan@gmail.com
+- Website: https://rohanb.com.np/
 
 <!-- Footer -->
 <p align="center">
