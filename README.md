@@ -24,15 +24,12 @@
 
 ---
 
-<!-- Connect -->
-## 🤝 Connect
-- LinkedIn: [Rohan Baidya](https://www.linkedin.com/in/rohanbaidya/)
-- GitHub: [Rohan Baidya](https://github.com/ronvoy/)
-
 <!-- Footer -->
 <p align="center">
-  https://rohanb.com.np/ <br>
-  me@rohanb.com.np <br>
-  baidya.rohan@gmail.com
+## 🤝 Connect
+- Link: [https://rohanb.com.np/](https://rohanb.com.np/)
+- LinkedIn: [https://www.linkedin.com/in/rohanbaidya/](https://www.linkedin.com/in/rohanbaidya/)
+- GitHub: [https://github.com/ronvoy/](https://github.com/ronvoy/)
+- Mail: me@rohanb.com.np || baidya.rohan@gmail.com
 </p>
 
