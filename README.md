@@ -25,11 +25,9 @@
 ---
 
 <!-- Footer -->
-<p align="center">
-## 🤝 Connect
+## 🤝 Connect <br>
 - Link: [https://rohanb.com.np/](https://rohanb.com.np/) <br>
 - LinkedIn: [https://www.linkedin.com/in/rohanbaidya/](https://www.linkedin.com/in/rohanbaidya/) <br>
 - GitHub: [https://github.com/ronvoy/](https://github.com/ronvoy/) <br>
 - Mail: me@rohanb.com.np || baidya.rohan@gmail.com
-</p>
 
