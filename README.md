@@ -31,8 +31,8 @@
 
 <!-- Footer -->
 <p align="center">
-  https://rohanb.com.np/
-  me@rohanb.com.np
+  https://rohanb.com.np/ <br>
+  me@rohanb.com.np <br>
   baidya.rohan@gmail.com
 </p>
 
