@@ -3,7 +3,7 @@
 
 <!-- Introduction -->
 <p align="center">
-  Hi there! I'm <a href="https://rohanb.com.np/">Rohan Baidya</a>, a passionate full-stack developer proficient in Laravel, Vue and Ruby on Rails.
+  Hi there! I'm <a href="https://rohanb.com.np/">Rohan Baidya</a>, a full-stack developer working in Laravel, Vue and Ruby on Rails.
 </p>
 
 ---
